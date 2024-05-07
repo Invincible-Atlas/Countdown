@@ -1,0 +1,31 @@
+#timerContainer{
+    width: 60%;
+    left: 20%;
+    
+    position: fixed;
+    top: 35%;
+    padding: 0px;
+
+
+
+}
+#timer{
+    margin: 0px;
+    font-size: 5em;
+    text-align: center;
+    color: red;
+    width: 100%;
+    word-wrap: break-word;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#warningBanner{
+    text-align: center;
+    color: orange;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#help{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
